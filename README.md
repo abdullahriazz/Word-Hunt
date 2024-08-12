@@ -22,3 +22,6 @@
    ```bash
    git clone https://github.com/yourusername/word-hunt.git
    cd word-hunt
+
+
+For any questions or feedback, contact me at [abdullahriaz.work@gmail.com]([abdullahriaz.work@gmail.com).
