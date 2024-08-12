@@ -1,6 +1,13 @@
 # Word Hunt
 
-## Overview
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Features](#features)
+- [Requirements](#requirements)
+- [Setup](#setup)
+
+## Project Overview
 
 "Word Hunt" is a simple word-search game written in assembly language for DOS. The game presents the player with a grid of letters and a list of words to find within the grid. The player inputs words, and the game checks if they match any of the target words. The player earns points for correct guesses and loses lives for incorrect ones. The game progresses through levels, each with a new grid of letters.
 
